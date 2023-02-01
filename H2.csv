@@ -1,4 +1,4 @@
-Date,Day of the Week,Amount,Description,Category ,Cash
+Date,Day_of_the_Week,Amount,Description,Category,Cash
 01/18/23,Wednesday,35,Nature Herbs,Entertainment and Recreation,Cash
 01/19/23,Thursday,25,Pizza,Food,Cash
 01/20/23,Friday ,60,Gas,Travel,Credit
